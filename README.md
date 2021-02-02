@@ -6,14 +6,18 @@ As we all know 2020 is a pandemic year due to COVID-19 people are now shifting t
 
 # Usage
 Run the main.py file.
+
 Open any browser and type localhost.
+
 Page will show shirts and trousers select any of them.
+
 Click on predict, it will show the superimposed image of product on human body.
 
 NOTE: Stand for accurate results.
 
 # Installation
 pip3 install opencv-python
+
 pip3 install flask
 
 # Prerequisites
@@ -21,4 +25,5 @@ Webcam/RGB Camera
 
 # Technologies
 OpenCV
+
 Flask
